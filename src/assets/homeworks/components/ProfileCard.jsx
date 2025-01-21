@@ -1,6 +1,7 @@
 import React from "react";
 import "./ProfileCard.css";
 
+
 const ProfileCard = ({ avatar, name, occupation, hobbies }) => {
   return (
     <div className="profile-card">
